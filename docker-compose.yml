@@ -28,8 +28,8 @@ services:
 
 volumes:
   mysql-data:
-  name: mysql-data
+    name: mysql-data
 
 networks:
   banking-network:
-  name: banking-network
+    name: banking-network
